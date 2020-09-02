@@ -12,7 +12,7 @@
 </p>
 
 <p align="center" style="BACKGROUND-COLOR: #656565;">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fbinaryinformatics.com%2Fwp-content%2Fuploads%2F2019%2F04%2FFull-Stack-Development-Services-1.jpg&imgrefurl=https%3A%2F%2Fbinaryinformatics.com%2Ffull-stack-development%2F&tbnid=CoUX-MT_0cwJTM&vet=12ahUKEwisitDH9MnrAhWhRHwKHRbCBIIQMygLegUIARDTAQ..i&docid=0zlDvdzWP1lyCM&w=1024&h=512&q=full%20stack%20development&ved=2ahUKEwisitDH9MnrAhWhRHwKHRbCBIIQMygLegUIARDTAQ" height="500" >
+<img src="" height="500" >
   </p>
 <p>
 
